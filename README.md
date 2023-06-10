@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lochin</h1>
-<h3 align="center">Interested full stack programmer from Uzbekistan</h3>
+<h3 align="center">I am from Uzbekistan and my interest is web programming 💻</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
